@@ -27,8 +27,8 @@ Transformo ideias em experiências digitais modernas, rápidas e funcionais.
 ### 🚀 Projetos em Destaque
 * 🎯 **[Portfólio Interativo](https://marvinrant.github.io)** - Minha vitrine digital.
 * 📈 **[Landing Pages Comerciais](https://marvinrant.github.io/exemplos.html)** - Projetos focados em alta conversão.
-* ⚙️ **[Painel Admin]** - Sistema web (*adicione o link aqui depois*).
-* 💻 **[Sistema Full Stack]** - Aplicação completa (*adicione o link aqui depois*).
+* ⚙️ **[Painel Admin](https://github.com/MarVinRant)** - Sistema web.
+* 💻 **[Sistema Full Stack](https://github.com/MarVinRant/Site-Mario)** - Aplicação completa.
 
 ---
 
