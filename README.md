@@ -18,9 +18,9 @@ HTML • CSS • JavaScript • React • Git • SQL • Python
 
 
 ### Projetos em destaque:
-[Portfólio;](https://marvinrant.github.io/Portifolio/index.html)
-[Landing Page Comercial;](https://marvinrant.github.io/Projeto-pizzaria/)
-[Dashboard;](https://github.com/MarVinRant/exercicios-python)
+[Portfólio;](https://marvinrant.github.io/Portifolio/index.html).
+[Landing Page Comercial;](https://marvinrant.github.io/Projeto-pizzaria/).
+[Dashboard;](https://github.com/MarVinRant/exercicios-python).
 Sistema Full Stack.
 
 ### Serviços:
