@@ -1,18 +1,13 @@
-👋 Olá! Sou Marcos Rantigueri.
+Olá, eu sou Marcos Vinicius 👋
 
-Desenvolvedor em formação e Web Designer Freelancer.
+Desenvolvedor Front-end, Web Designer Freelancer e estudante de Ciência da Computação.
 
-Ajudo empresas e profissionais a criarem sites modernos, rápidos e focados em conversão.
+Transformo ideias em experiências digitais modernas, rápidas e funcionais.
 
-Atualmente estudo ADS e atuo desenvolvendo soluções web.
+🌐 [Portfólio](https://marvinrant.github.io/Portifolio/index.html)
 
-🔹 Desenvolvimento Front-end
+📧 [E-mail](Marcosranti@gmail.com)
 
-🔹 Landing Pages
+💼 [LinkedIn](https://www.linkedin.com/in/marcos-rantigueri-4012b522b/)
 
-🔹 Sites Institucionais
-
-🔹 Análise de Dados
-
-📩 Vamos conversar:
-[LinkedIn](https://www.linkedin.com/in/marcos-rantigueri-4012b522b/) • [E-mail](Marcosranti@gmail.com) • [Portfólio](https://marvinrant.github.io/Portifolio/index.html)
+📱 [WhatsApp](https://wa.me/5511987291623?text=Ol%C3%A1!%20Vim%20do%20GitHub.%0AMe%20chamo...)
