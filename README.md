@@ -1,6 +1,6 @@
 ### Olá, eu sou Marcos Vinicius 👋
 
-Desenvolvedor Front-end, Web Designer Freelancer e estudante de Ciência da Computação.
+Desenvolvedor Front-end, Web Designer Freelancer e estudante de Análise e Desenvolvimento de Sistemas..
 
 Transformo ideias em experiências digitais modernas, rápidas e funcionais.
 
