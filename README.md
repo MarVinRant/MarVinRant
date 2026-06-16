@@ -15,6 +15,4 @@ Atualmente estudo ADS e atuo desenvolvendo soluções web.
 🔹 Análise de Dados
 
 📩 Vamos conversar:
-• [LinkedIn](https://www.linkedin.com/in/marcos-rantigueri-4012b522b/)
-• [E-mail](Marcosranti@gmail.com)
-• [Portfólio](https://marvinrant.github.io/Portifolio/index.html)
+[LinkedIn](https://www.linkedin.com/in/marcos-rantigueri-4012b522b/) • [E-mail](Marcosranti@gmail.com) • [Portfólio](https://marvinrant.github.io/Portifolio/index.html)
