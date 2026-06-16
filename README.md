@@ -4,8 +4,8 @@ Desenvolvedor Front-end, Web Designer Freelancer e estudante de Análise e Desen
 
 Transformo ideias em experiências digitais modernas, rápidas e funcionais.
 
-🌐 [Portfólio](https://rantech.com.br)
-📧 [E-mail](mailto:seu-email@aqui.com)
+🌐 [Portfólio](https://marvinrant.github.io/Portifolio/)
+📧 [E-mail](marcosranti@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/marcos-rantigueri-4012b522b/)
 📱 [WhatsApp](https://wa.me/5511987291623)
 
