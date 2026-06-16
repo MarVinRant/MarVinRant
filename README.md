@@ -1,6 +1,18 @@
-## Olá, sou o Marcos Rantigueri!👋
+👋 Olá! Sou Marcos Rantigueri.
 
-Desenvolvedor Full Stack apaixonado por interfaces criativas.
+Desenvolvedor em formação e Web Designer Freelancer.
 
-https://marvinrant.github.io/Portifolio/index.html
+Ajudo empresas e profissionais a criarem sites modernos, rápidos e focados em conversão.
 
+Atualmente estudo Ciência da Computação e atuo desenvolvendo soluções web.
+
+🔹 Desenvolvimento Front-end
+
+🔹 Landing Pages
+
+🔹 Sites Institucionais
+
+🔹 Análise de Dados
+
+📩 Vamos conversar:
+LinkedIn • E-mail • Portfólio
