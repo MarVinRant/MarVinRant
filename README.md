@@ -1,4 +1,4 @@
-Olá, eu sou Marcos Vinicius 👋
+### Olá, eu sou Marcos Vinicius 👋
 
 Desenvolvedor Front-end, Web Designer Freelancer e estudante de Ciência da Computação.
 
@@ -13,15 +13,15 @@ Transformo ideias em experiências digitais modernas, rápidas e funcionais.
 📱 [WhatsApp](https://wa.me/5511987291623?text=Ol%C3%A1!%20Vim%20do%20GitHub.%0AMe%20chamo...)
 
 
-# Tecnologias:
+### Tecnologias:
 HTML • CSS • JavaScript • React • Git • SQL • Python
 
 
-# Projetos em destaque:
+### Projetos em destaque:
 [Portfólio;](https://marvinrant.github.io/Portifolio/index.html)
 [Landing Page Comercial;](https://marvinrant.github.io/Projeto-pizzaria/)
 [Dashboard;](https://github.com/MarVinRant/exercicios-python)
 Sistema Full Stack.
 
-# Serviços:
+### Serviços:
 Desenvolvimento de sites institucionais, landing pages e soluções web.
