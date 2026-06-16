@@ -5,7 +5,7 @@ Desenvolvedor Front-end, Web Designer Freelancer e estudante de Análise e Desen
 Transformo ideias em experiências digitais modernas, rápidas e funcionais.
 
 🌐 [Portfólio](https://marvinrant.github.io/Portifolio/)
-📧 [E-mail](mailto:marcosranti@gmail.com?subject=Vim%20pelo%20GitHub.&body=Ol%C3%A1!%20Me%20Chamo...)
+📧 [E-mail](<a href="mailto:marcosranti@gmail.com?subject=Vim%20pelo%20GitHub.&body=Ol%C3%A1!%20Me%20Chamo...">Enviar email</a>)
 💼 [LinkedIn](https://www.linkedin.com/in/marcos-rantigueri-4012b522b/)
 📱 [WhatsApp](https://wa.me/5511987291623)
 
