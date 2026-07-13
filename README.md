@@ -1,37 +1,79 @@
-Olá, eu sou Marcos Rantigueri 👋
+# Olá, eu sou Marcos Rantigueri 👋
 
-Desenvolvedor Front-end, Web Designer Freelancer e estudante de Análise e Desenvolvimento de Sistemas.
+### Desenvolvedor Web | JavaScript | React | Soluções Digitais
 
-Transformo ideias em experiências digitais modernas, rápidas e funcionais.
+Transformo problemas reais em soluções digitais utilizando tecnologia.
 
-🌐 [Portfólio](https://marvinrant.github.io/Portifolio/)
-📧 <a href="mailto:marcosranti@gmail.com?subject=Vim%20pelo%20GitHub.&body=Ol%C3%A1!%20Me%20Chamo...">Enviar email</a>
-💼 [LinkedIn](https://www.linkedin.com/in/marcos-rantigueri-4012b522b/)
-📱 [WhatsApp](https://wa.me/5511987291623)
+Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvo aplicações web focadas em gerar resultados para empresas, automatizar processos e fortalecer a presença digital de pequenos e médios negócios.
 
----
-
-### 💻 Tecnologias e Ferramentas
-<div>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-</div>
+Meu objetivo é criar soluções simples, acessíveis e eficientes que realmente façam diferença para clientes e usuários.
 
 ---
 
-### 🚀 Projetos em Destaque
-* 🎯 **[Portfólio Interativo](https://marvinrant.github.io)** - Minha vitrine digital.
-* 📈 **[Landing Pages Comerciais](https://marvinrant.github.io/exemplos.html)** - Projetos focados em alta conversão.
-* ⚙️ **[Painel Admin](https://github.com/MarVinRant)** - Sistema web.
-* 💻 **[Sistema Full Stack](https://github.com/MarVinRant/Site-Mario)** - Aplicação completa.
+## 🚀 Tecnologias
+
+JavaScript
+
+React
+
+HTML5
+
+CSS3
+
+Node.js (em evolução)
+
+Git
+
+GitHub
+
+IA Generativa
+
+Engenharia de Prompt
+
+n8n
 
 ---
 
-### 🤝 Serviços
-**Desenvolvimento de sites institucionais, landing pages e soluções web.** 
-Se você precisa de uma interface inteligente e rápida para escalar o seu negócio, podemos conversar!
+## 📌 Projeto em destaque
+
+### 🍱 Rango da Hora
+
+Meu primeiro projeto freelance.
+
+Aplicação desenvolvida para um restaurante local com o objetivo de digitalizar pedidos e reduzir a dependência de marketplaces.
+
+Tecnologias
+
+React
+
+Vite
+
+JavaScript
+
+Deploy
+
+GitHub
+
+---
+
+## 🌎 Portfólio
+
+Conheça meus projetos
+
+🔗 https://marvinrant.github.io/Portifolio/
+
+---
+
+## 📊 GitHub Stats
+
+(cards)
+
+---
+
+## 📫 Contato
+
+LinkedIn
+
+GitHub
+
+Email
