@@ -72,8 +72,8 @@ Conheça meus projetos
 
 ## 📫 Contato
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/marcos-rantigueri/)
 
-GitHub
+[GitHub](https://github.com/MarVinRant)
 
-Email
+[Email](https://mail.google.com/mail/u/0/#inbox)
