@@ -1,79 +1,36 @@
-# Olá, eu sou Marcos Rantigueri 👋
+# Marcos Rantigueri
 
-### Desenvolvedor Web | JavaScript | React | Soluções Digitais
+## Desenvolvimento Web · Automação · IA
 
-Transformo problemas reais em soluções digitais utilizando tecnologia.
+Construo produtos digitais e automações para resolver problemas reais de negócios.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvo aplicações web focadas em gerar resultados para empresas, automatizar processos e fortalecer a presença digital de pequenos e médios negócios.
+Atualmente, meu foco está em desenvolvimento web, integração de dados e criação de experiências digitais que combinam clareza de produto, segurança básica e execução prática.
 
-Meu objetivo é criar soluções simples, acessíveis e eficientes que realmente façam diferença para clientes e usuários.
+## Foco técnico
 
----
+- React, TypeScript e JavaScript
+- Supabase e PostgreSQL
+- n8n, integrações e automação
+- IA aplicada a produtos e fluxos de trabalho
+- Interfaces responsivas, acessibilidade e experiência do usuário
+- Documentação, testes e decisões de arquitetura
 
-## 🚀 Tecnologias
+## Projetos em destaque
 
-JavaScript
+- **[RanTech Platform](https://github.com/MarVinRant/rantech-platform)** — plataforma institucional com diagnóstico digital, captura de leads, Supabase, Edge Functions, RLS e camadas de proteção.
+- **[Lead Intelligence](https://github.com/MarVinRant/Lead-Inteligence)** — produto para ingestão, scoring, pipeline e inteligência comercial, com React, Supabase, n8n, testes e arquitetura orientada a domínio.
+- **[Agents-RanTech](https://github.com/MarVinRant/Agents-RanTech)** — laboratório de agentes, atendimento e automações, apresentado de forma sanitizada.
+- **RanTech Service OS** — case documental sobre uma plataforma modular para negócios de serviço, com produto, arquitetura, automações e roadmap.
+- **[Tropical III](https://github.com/MarVinRant/Tropical-III)** — entrega digital para cliente real, com foco em presença, clareza de oferta e conversão.
 
-React
+## RanTech
 
-HTML5
+A RanTech é meu laboratório de produtos e soluções digitais. É onde transformo necessidades de negócios reais em interfaces, automações, experimentos e documentação reutilizável.
 
-CSS3
+## Portfólio e contato
 
-Node.js (em evolução)
+- [Portfólio pessoal](https://marvinrant.github.io/Portifolio/)
+- [LinkedIn](https://www.linkedin.com/in/marcos-rantigueri/)
+- [Repositórios](https://github.com/MarVinRant?tab=repositories)
 
-Git
-
-GitHub
-
-IA Generativa
-
-Engenharia de Prompt
-
-n8n
-
----
-
-## 📌 Projeto em destaque
-
-### 🍱 Rango da Hora
-
-Meu primeiro projeto freelance.
-
-Aplicação desenvolvida para um restaurante local com o objetivo de digitalizar pedidos e reduzir a dependência de marketplaces.
-
-Tecnologias
-
-React
-
-Vite
-
-JavaScript
-
-Deploy
-
-GitHub
-
----
-
-## 🌎 Portfólio
-
-Conheça meus projetos
-
-🔗 https://marvinrant.github.io/Portifolio/
-
----
-
-## 📊 GitHub Stats
-
-(cards)
-
----
-
-## 📫 Contato
-
-[LinkedIn](https://www.linkedin.com/in/marcos-rantigueri/)
-
-[GitHub](https://github.com/MarVinRant)
-
-[Email](https://mail.google.com/mail/u/0/#inbox)
+> Este perfil prioriza projetos com contexto, decisões e aprendizados — não apenas uma lista de tecnologias.
