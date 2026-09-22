@@ -29,7 +29,7 @@ A RanTech é meu laboratório de produtos e soluções digitais. É onde transfo
 
 ## Portfólio e contato
 
-- [Portfólio pessoal](https://marvinrant.github.io/Portifolio/)
+- [Portfólio pessoal](https://rantech-portfolio.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/marcos-rantigueri/)
 - [Repositórios](https://github.com/MarVinRant?tab=repositories)
 
